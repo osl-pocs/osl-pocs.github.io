@@ -21,3 +21,12 @@ Note: All the PoCs should be related to an open Tehcnology.
 
 - Feel free to add a sponsorship button/link on the README file for any contributor to that PoC.
 - Add an explanation about the project and examples about how to install and run it
+
+
+## Python Projects
+
+For python projects, follow the guideline provided by pyopensci.org: 
+https://www.pyopensci.org/python-package-guide/documentation/create-readme-files.html
+
+If you are looking for a Python Project Template, check the one provided by Open Science labs at: 
+https://github.com/osl-incubator/cookiecutter-python
