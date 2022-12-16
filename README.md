@@ -10,7 +10,7 @@ In order to keep consistency among all PoCs repository, we developed some criter
 Note: All the PoCs should be related to an open Tehcnology. 
 
 
-***Repository settings**:
+**Repository settings**:
 
 - Keep deactivated GitHub Wiki, Projects and Discussions, unless you want to use and maintain that.
 - Keep the option "Sponsorships" active and configure it to have: `github: [openscienlabs, osl-incubator]`.
